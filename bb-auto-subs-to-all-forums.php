@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BuddyBoss auto subscribe to all forums
-Plugin URI:  https://github.com/jcatama/buddyboss-auto-subs-to-all-forums
+Plugin URI:  https://wordpress.org/plugins/buddyboss-auto-subscribe-to-all-forums/
 Description: Auto subscribe to all forums after user registration
 Version:     1.0.0
 Author:      John Albert Catama
