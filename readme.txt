@@ -14,6 +14,9 @@ Auto subscribe to all forums after user registration.
 == Description ==
 
 Auto subscribe to all forums after user registration.
+After enabling the buddyboss platform, Please make sure to configure the ff:
+- Enable User registration
+- Enable forums
 
 == Frequently Asked Questions ==
 
