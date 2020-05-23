@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: jcatama
-Donate link: https://github.com/jcatama/buddyboss-auto-subs-to-all-forums
+Donate link: https://www.paypal.me/jcatama
 Tags: buddyboss, buddypress, bbp, subscribetoallforum
 Requires at least: 4.7
 Tested up to: 5.4
@@ -18,7 +18,17 @@ After enabling the buddyboss platform, Please make sure to configure the ff:
 - Enable User registration
 - Enable forums
 
+If you have suggestions for a new add-on, feel free to email me at jcatama.ph@gmail.com
+
+= Required Plugin =
+
+* [BuddyBoss Platform](https://www.buddyboss.com/platform/)
+
 == Frequently Asked Questions ==
+
+= What type of Forum is supported? =
+
+Only Public Forum
 
 = Free to use? =
 
