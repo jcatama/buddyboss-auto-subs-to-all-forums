@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== BuddyBoss auto subscribe to all forums ===
 Contributors: jcatama
 Donate link: https://www.paypal.me/jcatama
 Tags: buddyboss, buddypress, bbp, subscribetoallforum
